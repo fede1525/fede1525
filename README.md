@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
 <h3 align="center">A Fullstack developer from Argentina, to the world</h3>
 
-- 🔭 I’m currently working on [https://github.com/4GeeksAcademy/finalProject-LATAM-pt25](https://github.com/4GeeksAcademy/finalProject-LATAM-pt25)
-
 - 🌱 I’m currently learning **Rust, C**
 
 - 📫 How to reach me **federicoresano1@gmail.com**
